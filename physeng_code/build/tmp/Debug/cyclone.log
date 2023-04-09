@@ -1,0 +1,18 @@
+﻿  body.cpp
+  collide_coarse.cpp
+  collide_fine.cpp
+  contacts.cpp
+  core.cpp
+  fgen.cpp
+  joints.cpp
+  particle.cpp
+  pcontacts.cpp
+  pfgen.cpp
+  plinks.cpp
+  pworld.cpp
+  random.cpp
+  world.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1556,5): warning MSB8012: TargetPath(W:\mod\physeng\physeng_code\lib\cyclone.lib) does not match the Library's OutputFile property value (W:\mod\physeng\physeng_code\lib\cyclone_d.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1558,5): warning MSB8012: TargetName(cyclone) does not match the Library's OutputFile property value (cyclone_d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  cyclone.vcxproj -> W:\mod\physeng\physeng_code\lib\cyclone.lib
